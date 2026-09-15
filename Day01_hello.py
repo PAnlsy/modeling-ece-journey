@@ -13,3 +13,4 @@ print("样例数据：", numbers)
 print("平均值：", average)
 print("最高分：", max(numbers))
 print("最低分：", min(numbers))
+
